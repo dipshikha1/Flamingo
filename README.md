@@ -1,4 +1,4 @@
-unscrambler
+Unscrambler
 ===========
 
 This Java program was created to unscramble the word "flamingoes" for the 2014 IUPUI High School Math Contest.
@@ -12,3 +12,5 @@ order) followed by the letters in even positions (in order). Thus, starting with
 letters in alphabetic order, you can reach E F G I L M N O S A , and A
 F I M O E G L N S . What is the shortest sequence of moves needed to
 complete the task?</blockquote>
+
+I have solved it using Java 

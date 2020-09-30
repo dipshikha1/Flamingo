@@ -42,5 +42,3 @@ ISFNLGAOME //line 40679 = 	odd 	= odd then even letters, 	 move 15.
 SFNLGAOMEI //line 81358 = 	even 	= first to last letters,  	 move 16.
 FNLGAOMEIS //line 162716 = 	even	= first to last letters, 	 move 17.
 FLAMINGOES //line 325433 = 	odd 	= odd then even letters,  	 move 18.
-
-The position of the word "flamingoes" is: 325433. Position 325433 is reached after 18 moves.
